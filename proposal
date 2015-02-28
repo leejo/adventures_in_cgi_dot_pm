@@ -1,0 +1,6 @@
+This talk aims to give an overview of recent changes in CGI.pm and
+some lessons learned from maintaining the module; including, but
+not limited to: github, pull-requests, legacy cruft, test coverage,
+RT, vendor module management, silence and noise.
+
+The talk is planned as a lightning talk.
