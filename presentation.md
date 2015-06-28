@@ -1,19 +1,67 @@
-Adventures in CGI (dot pm)
+### Adventures in CGI (dot pm)
 
-[Lee Johnson](http://leejo.github.io)
+Lee Johnson
 
-August 2015
+YAPC::EU 2015
 
 ---
-## What?
+![me](/img/card.jpg)
 
-https://github.com/kristiannissen/CGIRouter
+[leejo.github.io/code](https://leejo.github.io/code)
 
-https://stackoverflow.com/questions/29831919/perl-cgi-on-iis-form-post-returns-404/29841591#29841591
+---
+![messy](/img/messy.jpg)
 
-http://allperlbooks.com/tag/cgi
+[Messy](https://www.flickr.com/photos/morag_riddell/5544830019/)
 
-https://www.youtube.com/channel/UCmyYstj6bzJ7WC_ZEQ0dL4Q/videos
+---
+![still broken](/img/better.jpg)
+
+[Still broken](https://www.flickr.com/photos/alancleaver/3727870484/)
+
+---
+![best](/img/dishwasher.jpg)
+
+[Plugin optional](https://www.flickr.com/photos/mrlobo/18172971/)
+
+---
+## Legacy Cruft
+
+Get rid of it, or at the least threaten to get rid of it.
+
+That includes RT issues.
+
+---
+## Github
+
+Lazy delegation.
+
+---
+## Test Coverage
+
+"If all your tests are passing you don't have enough tests."
+
+---
+## Vendor Module Management
+
+[https://lists.fedoraproject.org/pipermail/perl-devel/](https://lists.fedoraproject.org/pipermail/perl-devel/)
+
+---
+## CGI.pm Was Ubiquitous
+
+It's still all over the place.
+
+---
+## But CGI.pm Is "Done"
+
+[Critical bug fixes only.](https://metacpan.org/pod/distribution/CGI/lib/CGI.pod#BUGS)
+
+---
+## But CGI.pm Is "Done"
+
+[Critical bug fixes only.](https://metacpan.org/pod/distribution/CGI/lib/CGI.pod#BUGS)
+
+(So don't use it)
 
 ---
 ## Thank you
