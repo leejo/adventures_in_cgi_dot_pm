@@ -34,7 +34,11 @@ That includes RT issues.
 ---
 ## Github
 
-Lazy delegation.
+[Lazy delegation](https://github.com/leejo/CGI.pm/pulls?q=is%3Apr+is%3Aclosed).
+
+[Travis](https://travis-ci.org): CI.
+
+[Coveralls](https://coveralls.io): Coverage.
 
 ---
 ## Test Coverage
