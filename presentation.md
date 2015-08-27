@@ -32,9 +32,13 @@ Get rid of it, or at the least threaten to get rid of it.
 That includes RT issues.
 
 ---
-## Github
+## Git(hub|lab) / Kiln / BitBucket
 
-Lazy delegation.
+[Lazy delegation](https://github.com/leejo/CGI.pm/pulls?q=is%3Apr+is%3Aclosed).
+
+[Travis](https://travis-ci.org): CI.
+
+[Coveralls](https://coveralls.io): Coverage.
 
 ---
 ## Test Coverage
