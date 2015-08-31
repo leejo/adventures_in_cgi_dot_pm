@@ -15,6 +15,34 @@ YAPC::EU 2015
 [Messy](https://www.flickr.com/photos/morag_riddell/5544830019/)
 
 ---
+
+## AUTOLOAD
+
+---
+
+## CGI::Apache
+
+## CGI::Switch
+
+## CGI::Pretty
+
+## CGI::Fast
+
+---
+
+## Anything marked as deprecated
+
+---
+
+## HTML Generation Functions
+
+---
+
+## About 5000 LOC
+
+![git effort](img/diff.png)
+
+---
 ![still broken](img/better.jpg)
 
 [Still broken](https://www.flickr.com/photos/alancleaver/3727870484/)
