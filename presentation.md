@@ -38,14 +38,28 @@ YAPC::EU 2015
 
 ---
 
-## About 5000 LOC
+## About 6000 LOC
 
 ![git effort](img/diff.png)
+
+(because 1,245 lines of +ve are tests)
 
 ---
 ![still broken](img/better.jpg)
 
 [Still broken](https://www.flickr.com/photos/alancleaver/3727870484/)
+
+---
+
+## [CCC](https://media.ccc.de/browse/congress/2014/31c3_-_6243_-_en_-_saal_1_-_201412292200_-_the_perl_jam_exploiting_a_20_year-old_vulnerability_-_netanel_rubin.html#video)
+
+---
+
+## [Can't/Won't Fix](https://rt.cpan.org/Public/Dist/Display.html?Status=Rejected;Name=CGI)
+
+---
+
+## It's CGI.pm
 
 ---
 ![best](img/dishwasher.jpg)
